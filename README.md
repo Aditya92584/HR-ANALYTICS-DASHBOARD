@@ -62,12 +62,6 @@ The Power BI dashboard answers key HR questions such as:
 
 ---
 
-## 📸 Dashboard Preview
-
-
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from the repository
